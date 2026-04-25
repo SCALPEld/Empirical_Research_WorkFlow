@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Review"
+  short_description: "Review economics and finance papers."
+  default_prompt: "Use $paper-review to review this economics or finance paper as a Guanghua professor."
